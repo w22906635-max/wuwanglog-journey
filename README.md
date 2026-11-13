@@ -96,3 +96,9 @@
 - 给同样想搭站的人参考：坑基本都在这里了
 - 所有依赖与素材的来源、许可证，见 [CREDITS.md](CREDITS.md)
 - 完整运维细节见 [docs/博客构筑与发布总结.md](docs/博客构筑与发布总结.md)
+
+## 许可
+
+本仓库的文字内容（README、CREDITS、docs/）采用 **[CC BY 4.0](LICENSE)**：可以转载、改编、甚至商用，保留署名与来源即可。
+
+> ⚠️ 博客模板 **XHBlogs** 是另一回事：它由 heiehiehi 开发、采用 **CC BY-NC 4.0（署名—非商业性使用）**。本仓库不含它的代码，用模板请去[原作者仓库](https://github.com/heiehiehi/XinghuisamaBlogs)并遵守其许可。
